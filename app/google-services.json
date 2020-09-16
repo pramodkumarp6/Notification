@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374534025421",
+    "firebase_url": "https://notification-5bf24.firebaseio.com",
+    "project_id": "notification-5bf24",
+    "storage_bucket": "notification-5bf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374534025421:android:9fe0be8d7f6d67c344b984",
+        "android_client_info": {
+          "package_name": "com.pramod.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374534025421-4mj44bie81hbsola32f618bcd48hlv1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1gjHPfMUVuKoyarCpxcCWxDVfflpxadI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374534025421-4mj44bie81hbsola32f618bcd48hlv1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
